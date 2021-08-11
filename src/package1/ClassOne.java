@@ -6,5 +6,6 @@ public class ClassOne {
 		System.out.println("Hello World");
 		System.out.println("Welcome Bank project members!");
 		System.out.println("here is a fouth commit");
+		System.out.println("An update from remote branch");
 	}
 }
